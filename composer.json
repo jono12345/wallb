@@ -1,0 +1,14 @@
+{
+  "name": "vendor_name/wallb",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Jono",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  }
+}
